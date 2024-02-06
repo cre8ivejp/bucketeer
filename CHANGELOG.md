@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.0](https://github.com/cre8ivejp/bucketeer/compare/v0.0.1...v1.0.0) (2024-02-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* test breaking changes #2
+* test breaking changes
+
+### Miscellaneous
+
+* test breaking changes ([13d9a5c](https://github.com/cre8ivejp/bucketeer/commit/13d9a5cd1f94d16d7579ac8271f4685972f90606))
+* test breaking changes [#2](https://github.com/cre8ivejp/bucketeer/issues/2) ([8293f2d](https://github.com/cre8ivejp/bucketeer/commit/8293f2dfe3f62a25666c512efd4f0d3fe256f538))
+
 ## [0.0.1](https://github.com/cre8ivejp/bucketeer/compare/v0.3.0...v0.0.1) (2024-02-06)
 
 
